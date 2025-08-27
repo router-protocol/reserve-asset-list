@@ -1,0 +1,43 @@
+{
+  "campaigns": [
+    {
+      "id": "1",
+      "title": "Swap and Win - $ASYNC Airdrop",
+      "subtitle": "Raffle Airdrop",
+      "subheading": "Participate in swaps",
+      "rewardAmount": "3.2 Million",
+      "rewardToken": "$ASYNC",
+      "eodTimestamp": 1756290225,
+      "isActive": true,
+      "createdAt": "2024-09-01T00:00:00Z",
+      "description": "$ASYNC Airdrop",
+      "link": "https://example.com/campaign/swap-async-airdrop"
+    },
+    {
+      "id": "2",
+      "title": "Early Adopter Rewards - $ROUTER Tokens",
+      "subtitle": "Liquidity Mining",
+      "subheading": "Earn rewards by providing liquidity",
+      "rewardAmount": "1.5 Million",
+      "rewardToken": "$ROUTER",
+      "eodTimestamp": 1734825599,
+      "isActive": true,
+      "createdAt": "2024-09-05T00:00:00Z",
+      "description": "$ROUTER Airdrop",
+      "link": "https://example.com/campaign/early-adopter-rewards"
+    },
+    {
+      "id": "3",
+      "title": "Cross-Chain Bridge Bonus - $BRIDGE Rewards",
+      "subtitle": "Bridge Rewards",
+      "subheading": "Use our bridge and earn rewards",
+      "rewardAmount": "500K",
+      "rewardToken": "$BRIDGE",
+      "eodTimestamp": 1735257599,
+      "isActive": true,
+      "createdAt": "2024-09-10T00:00:00Z",
+      "description": "$BRIDGE Airdrop",
+      "link": "https://example.com/campaign/bridge-bonus"
+    }
+  ]
+} 
