@@ -1,17 +1,3 @@
 {
-  "campaigns": [
-    {
-      "id": "1",
-      "title": "Swap and Win - $ASYNC Airdrop",
-      "subtitle": "Raffle Airdrop",
-      "subheading": "Participate in swaps",
-      "rewardAmount": "3.2 Million",
-      "rewardToken": "$ASYNC",
-      "eodTimestamp": 1756290225,
-      "isActive": true,
-      "createdAt": "2024-09-01T00:00:00Z",
-      "description": "$ASYNC Airdrop",
-      "link": "https://example.com/campaign/swap-async-airdrop"
-    }
-  ]
+  "campaigns": [ ]
 } 
